@@ -10,11 +10,10 @@ The project is to analyze hospital data and identify operational problems such a
 - How can these insights help management optimize staffing, patient flow, and pharmacy inventory?
 
 ## Process
-Collected healthcare patient data and loaded the CSV file using Python Pandas.
-Checked missing values and duplicates, corrected data types, converted date columns, and created features such as Age Group, Admission Month, and Appointment Day.
-Analyzed readmission rate, patient volume, waiting time, appointment status, and medicine demand using Pandas.
-Used Matplotlib and Seaborn to create bar charts, count plots, boxplots, and line charts to identify trends and patterns.
-Identified high-readmission departments, waiting-time bottlenecks, peak appointment days, and high-demand medicines, helping management optimize staffing, scheduling, patient flow, and pharmacy inventory.
+- Collected healthcare patient data and loaded the CSV file using Python Pandas.
+- Checked missing values and duplicates, corrected data types, converted date columns.
+- Analyzed readmission rate, patient volume, waiting time, appointment status, and medicine demand using Pandas.
+- Used Matplotlib and Seaborn to create bar charts, count plots, boxplots, and line charts to identify trends and patterns.
 
 ## Project Insight
 Readmission Insight – Identified the overall patient readmission rate and compared readmission across different departments.

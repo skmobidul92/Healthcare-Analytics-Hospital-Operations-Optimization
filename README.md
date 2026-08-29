@@ -21,7 +21,7 @@ The project is to analyze hospital data and identify operational problems such a
 - Waiting Time Insight – Analyzed average waiting time by department and appointment day to identify OPD bottlenecks.
 - Appointment Insight – Identified peak appointment days and appointment-status patterns, helping optimize doctor availability and scheduling.
 - Pharmacy Insight – Identified high-demand medicines and analyzed monthly medicine demand to support better inventory and stock planning.
-= Patient Demographic Insight – Used age-group analysis to understand which patient segments contribute more to hospital utilization.
+- Patient Demographic Insight – Used age-group analysis to understand which patient segments contribute more to hospital utilization.
 
 
 ## Conclusion

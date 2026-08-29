@@ -16,13 +16,13 @@ The project is to analyze hospital data and identify operational problems such a
 - Used Matplotlib and Seaborn to create bar charts, count plots, boxplots, and line charts to identify trends and patterns.
 
 ## Project Insight
-Readmission Insight – Identified the overall patient readmission rate and compared readmission across different departments.
-Department Performance Insight – Identified departments with high patient volume, helping management understand where additional resources may be required.
-Waiting Time Insight – Analyzed average waiting time by department and appointment day to identify OPD bottlenecks.
-Appointment Insight – Identified peak appointment days and appointment-status patterns, helping optimize doctor availability and scheduling.
-Pharmacy Insight – Identified high-demand medicines and analyzed monthly medicine demand to support better inventory and stock planning.
-Patient Demographic Insight – Used age-group analysis to understand which patient segments contribute more to hospital utilization.
-Operational Improvement – Combined these insights to recommend improvements in staff allocation, appointment scheduling, patient flow, and pharmacy inventory management.
+- Readmission Insight – Identified the overall patient readmission rate and compared readmission across different departments.
+- Department Performance Insight – Identified departments with high patient volume, helping management understand where additional resources may be required.
+- Waiting Time Insight – Analyzed average waiting time by department and appointment day to identify OPD bottlenecks.
+- Appointment Insight – Identified peak appointment days and appointment-status patterns, helping optimize doctor availability and scheduling.
+- Pharmacy Insight – Identified high-demand medicines and analyzed monthly medicine demand to support better inventory and stock planning.
+= Patient Demographic Insight – Used age-group analysis to understand which patient segments contribute more to hospital utilization.
+
 
 ## Conclusion
 “The main conclusion of this healthcare analytics project is that data can help hospitals improve operational efficiency and patient experience. By analyzing readmission rates, department workload, waiting time, appointment patterns, and medicine demand, I identified key operational areas that require improvement. These insights can help hospital management optimize staff allocation, appointment scheduling, patient flow, and pharmacy inventory, leading to better resource utilization and more data-driven decision-making.”

@@ -15,6 +15,9 @@ The project is to analyze hospital data and identify operational problems such a
 - Analyzed readmission rate, patient volume, waiting time, appointment status, and medicine demand using Pandas.
 - Used Matplotlib and Seaborn to create bar charts, count plots, boxplots, and line charts to identify trends and patterns.
 
+## Dashborad
+<a herf="https://github.com/skmobidul92/Healthcare-Analytics-Hospital-Operations-Optimization/blob/main/Untitled5.ipynb"View Dashboard
+
 ## Project Insight
 - Readmission Insight – Identified the overall patient readmission rate and compared readmission across different departments.
 - Department Performance Insight – Identified departments with high patient volume, helping management understand where additional resources may be required.
